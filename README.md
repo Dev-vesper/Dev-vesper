@@ -35,9 +35,6 @@ I usually use **Rust** for heavier or more serious projects. For simpler tasks, 
 
 ---
 
-### GitHub Stats
+### Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-vesper&show_icons=true&theme=white&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-vesper&layout=compact&theme=white&hide_border=true" alt="Top Languages" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-vesper&theme=white&hide_border=true&area=true" alt="Activity Graph" />
