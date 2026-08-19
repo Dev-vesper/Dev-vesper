@@ -1,16 +1,43 @@
-## Hi there 👋
+I'm a developer who focuses on understanding programming concepts rather than just memorizing syntax. This approach makes it easier for me to pick up new languages when needed. 
 
-<!--
-**Dev-vesper/Dev-vesper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I usually use **Rust** for heavier or more serious projects. For simpler tasks, like building a Telegram bot, I prefer **Python**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools & Technologies
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![AI](https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=probot&logoColor=white)
+
+### Operating Systems
+
+<div style="display: flex; flex-direction: column; gap: 8px; width: fit-content;">
+  <div style="display: inline-flex; align-items: center; gap: 8px; background-color: #0078D6; padding: 6px 14px; border-radius: 0px; font-family: sans-serif; font-weight: bold; font-size: 14px; color: white; direction: ltr;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="20" height="20" alt="Windows 11 Icon" style="filter: brightness(0) invert(1);">
+    <span>Windows 11</span>
+  </div>
+  <div style="display: inline-flex; align-items: center; gap: 8px; background-color: #A81D33; padding: 6px 14px; border-radius: 1px; font-family: sans-serif; font-weight: bold; font-size: 14px; color: white; direction: ltr;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" width="20" height="20" alt="Debian Icon" style="filter: brightness(0) invert(1);">
+    <span>Debian 13</span>
+  </div>
+</div>
+
+---
+
+### Contact
+
+[![Email](https://img.shields.io/badge/Email-vesper.oneold@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vesper.oneold@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@a_vesper-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/a_vesper)
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-vesper&show_icons=true&theme=white&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-vesper&layout=compact&theme=white&hide_border=true" alt="Top Languages" />
+</p>
