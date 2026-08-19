@@ -37,4 +37,4 @@ I usually use **Rust** for heavier or more serious projects. For simpler tasks, 
 
 ### Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-vesper&theme=white&hide_border=true&area=true" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-vesper&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
