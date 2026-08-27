@@ -2,6 +2,8 @@ I'm a developer who focuses on understanding programming concepts rather than ju
 
 I usually use **Rust** for heavier or more serious projects. For simpler tasks, like building a Telegram bot, I prefer **Python**.
 
+I also make heavy use of **AI** in my work — especially for learning and picking up patterns from the repositories and projects I'm involved in, as well as getting help with **writing code**.
+
 ---
 
 ### Tools & Technologies
