@@ -39,4 +39,4 @@ I also make heavy use of **AI** in my work — especially for learning and picki
 
 ### Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-vesper&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+[![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dev-vesper&theme=github_dark)](https://git.io/streak-stats)
