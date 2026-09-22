@@ -4,7 +4,7 @@ I usually use **Rust** for heavier or more serious projects. For simpler tasks, 
 
 I also make heavy use of **AI** in my work — especially for learning and picking up patterns from the repositories and projects I'm involved in, as well as getting help with **writing code**.
 
-Many of the projects on the profile were merely ideas in my mind that were hard for me to implement before AI made code implementation cheap. But now, it’s very easy to implement them.
+Many of the projects/repo on the profile were merely ideas in my mind that were hard for me to implement before AI made code implementation cheap. But now, it’s very easy to implement them.
 
 ---
 
