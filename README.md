@@ -20,13 +20,13 @@ Many of the projects/repo on the profile were merely ideas in my mind that were 
 ### Operating Systems
 
 <div style="display: flex; flex-direction: column; gap: 8px; width: fit-content;">
-  <div style="display: inline-flex; align-items: center; gap: 8px; background-color: #0078D6; padding: 6px 14px; border-radius: 0px; font-family: sans-serif; font-weight: bold; font-size: 14px; color: white; direction: ltr;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="20" height="20" alt="Windows 11 Icon" style="filter: brightness(0) invert(1);">
-    <span>Windows 11</span>
-  </div>
   <div style="display: inline-flex; align-items: center; gap: 8px; background-color: #A81D33; padding: 6px 14px; border-radius: 1px; font-family: sans-serif; font-weight: bold; font-size: 14px; color: white; direction: ltr;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" width="20" height="20" alt="Debian Icon" style="filter: brightness(0) invert(1);">
     <span>Debian 13</span>
+  </div>
+  <div style="display: inline-flex; align-items: center; gap: 8px; background-color: #0078D6; padding: 6px 14px; border-radius: 0px; font-family: sans-serif; font-weight: bold; font-size: 14px; color: white; direction: ltr;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="20" height="20" alt="Windows 11 Icon" style="filter: brightness(0) invert(1);">
+    <span>Windows 11</span>
   </div>
 </div>
 
